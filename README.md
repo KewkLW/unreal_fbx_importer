@@ -63,8 +63,3 @@ This script is provided under the [MIT License](LICENSE). Feel free to use, modi
 - The script utilizes the Unreal Engine Python API to interact with the editor and import FBX files.
 - Thanks to the Unreal Engine community for their support and resources.
 
-## Contact
-
-For any questions or suggestions, please feel free to reach out to [your-email@example.com](mailto:your-email@example.com).
-
-Happy importing and organizing!
