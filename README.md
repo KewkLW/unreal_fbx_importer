@@ -38,9 +38,9 @@ This Python script is designed to import FBX files into Unreal Engine and automa
 
 7. Save the Python file.
 
-8. In the Unreal Editor, open the Python console or create a new Python script asset.
+8. In the Unreal Editor, go to "Tools" > "Execute Python Script".
 
-9. Execute the Python script.
+9. Select the Python file you created.
 
 10. The script will import the specified FBX files, create folders for each file inside the designated "Buildings" folder (or the specified destination folder), and place each FBX file in its respective folder.
 
@@ -63,3 +63,4 @@ This script is provided under the [MIT License](LICENSE). Feel free to use, modi
 - The script utilizes the Unreal Engine Python API to interact with the editor and import FBX files.
 - Thanks to the Unreal Engine community for their support and resources.
 
+Happy importing and organizing!
